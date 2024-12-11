@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>jsp study 열심히 공부하자</h1>
-	<%= new java.util.Date() %>
+		<h1>처음 실행하는 JSP</h1>
 </body>
 </html>
